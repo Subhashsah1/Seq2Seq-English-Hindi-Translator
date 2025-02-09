@@ -1,10 +1,9 @@
-# 🌐 Advanced English-Hindi Neural Machine Translation
+# 🌐 English-Hindi Neural Machine Translation
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0-ee4c2c.svg)](https://pytorch.org/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Transformers-yellow.svg)](https://huggingface.co/)
 
-A state-of-the-art bidirectional English-Hindi translation model built using Facebook's mBART architecture and fine-tuned on a comprehensive parallel corpus of 15,000+ sentence pairs.
 
 ## 🚀 Key Features
 
